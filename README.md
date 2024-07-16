@@ -13,14 +13,21 @@
 
 # Índice
 - [Índice](#índice)
+- [Link do projeto](#link-do-projeto)
 - [Descrição do Projeto](#descrição-do-projeto)
     - [Objetivo](#objetivo)
   - [Funcionalidades](#funcionalidades)
     - [Tecnologias Utilizadas](#tecnologias-utilizadas)
     - [Responsividade](#responsividade)
   - [Instruções de uso](#instruções-de-uso)
+  
 
 <h2 align="center">⭐⭐⭐</h2>
+
+## Link do projeto
+
+Adicione vídeos, edite informações e faça um catálogo com os melhores vídeos da Alura totalmente personalizado para você! 
+Link do projeto: https://cah-rodrigues.github.io/aluraflix-challenge/
 
 # Descrição do Projeto
 
@@ -41,12 +48,6 @@ Ser uma plataforma educativa intuitiva e acessível, oferecendo um vasto acervo 
 - **Catálogo de Vídeos**: Acesse e assista a vídeos educativos sobre diversos temas de tecnologia e programação diretamente pelo site.
 
 - **Gerenciamento de Conteúdo**: Adicione novas categorias e vídeos para personalizar ainda mais o seu aprendizado.
-
-<div align="center">
-
-![Print da página de vídeos do Aluraflix](public/imagens/catalogo.png)
-
-</div>
 
 ### Tecnologias Utilizadas
 
@@ -95,6 +96,6 @@ Caso queira editar alguma informação do card, clique em "EDITAR" no próprio c
 ![Modal de edição de card](public/imagens/modal-editar-card.png)
 
 
-Adicione vídeos, edite informações e faça um catálogo com os melhores vídeos da Alura totalmente personalizado para você!
+
 
 [def]: #índice
